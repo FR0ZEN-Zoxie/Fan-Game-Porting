@@ -15,5 +15,5 @@ How do you do this?
 - Porting will not be taught by anyone associated with Fan Game Porting.
 
 How do I get the stuff?
-- Join the discord and download the stuff from the Game's Channel.
+- Go to the releases on the Right Side of the screen.
 https://discord.gg/unyutUepPr
