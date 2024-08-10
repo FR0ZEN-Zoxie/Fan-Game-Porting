@@ -16,4 +16,7 @@ How do you do this?
 
 How do I get the stuff?
 - Go to the releases on the Right Side of the screen.
+
+- Join this server for more Info, News, And more!
 https://discord.gg/unyutUepPr
+
