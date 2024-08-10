@@ -2,8 +2,6 @@
 This is all for blender purposes only.
 Anything that is used otherwise is prohibited and is not on me!
 
-~~~~~~~~~~Info~~~~~~~~~~
-
 What is Porting?
 - the changing of the size, shape, or location of the intake and exhaust ports in an internal-combustion engine, generally to improve performance.
 
